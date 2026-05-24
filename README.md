@@ -1,5 +1,7 @@
 ### Harim Choi
 
+[![Portfolio preview](https://raw.githubusercontent.com/HarimxChoi/HarimxChoi.github.io/main/public/img/og.png)](https://harimxchoi.github.io)
+
 Production ML engineer in Seoul. 6+ years end-to-end across CV, NLP, predictive.
 Self-taught, non-traditional path.
 
