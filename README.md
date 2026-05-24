@@ -11,7 +11,7 @@ Production ML + OSS + research.
 
 **Recent**
 
-- **bidNLP**: Korean public-procurement notice classification. RoBERTa-large + LoRA Teacher-Student, hybrid weak labels (SBERT + finetuned-RoBERTa max-sim ensemble), static INT8 ONNX (AVX512-VNNI). FastAPI service, 1+ year in production. F1 96.4%, 50 ms CPU, weekly 7,000 notices: 40 hr manual to 2 min automated.
+- **bidNLP**: Korean public-procurement notice classification. RoBERTa-large + LoRA Teacher-Student, hybrid weak labels (SBERT + finetuned-RoBERTa max-sim ensemble), static INT8 ONNX (AVX512-VNNI). FastAPI service, 1+ year in production. F1 96.4%, 50 ms CPU, weekly 70,000 notices: 40 hr manual to 2 min automated.
 - **R2CCP custom**: tender bid rate prediction. Identified interval collapse in the public implementation, fixed via per-bin threshold + entropy regularization. +25 to 40% win rate, 1+ year deployed.
 - **wsss-refined-pseudolabels**: weakly-supervised semantic segmentation. Frozen CLIP (ViT-B/16) + DINOv2, Multi-Signal Reliability Estimation. 56.2% mIoU on COCO-Val (+4.3pp over WeCLIP+ 80K baseline). SOTA at release. 3-month contracted research.
 - **monogram**: PKM agent system. 5-stage LLM pipeline + atomic Git Tree commits + 13-tool MCP server. PyPI as `mono-gram`.
