@@ -1,29 +1,15 @@
 ### Harim Choi
 
-[![Portfolio preview](https://raw.githubusercontent.com/HarimxChoi/HarimxChoi.github.io/main/public/img/og.png)](https://harimxchoi.github.io)
+Machine Learning Engineer in Seoul.
 
-Production ML engineer in Seoul. 6+ years end-to-end across CV, NLP, predictive.
-Self-taught, non-traditional path.
+I am interested in vectorizing reality, making predictions, and estimating uncertainty. I work across probabilistic modeling, computer vision, NLP, model efficiency, and agent systems, connecting data and evaluation to deployable software.
 
-**Portfolio:** https://harimxchoi.github.io
+[Portfolio](https://harimxchoi.github.io) · [LinkedIn](https://linkedin.com/in/harimxchoi) · [Email](mailto:2.harim.choi@gmail.com)
 
-Production ML + OSS + research.
+**Selected work**
 
-**Recent**
-
-- **bidNLP**: Korean public-procurement notice classification. RoBERTa-large + LoRA Teacher-Student, hybrid weak labels (SBERT + finetuned-RoBERTa max-sim ensemble), static INT8 ONNX (AVX512-VNNI). FastAPI service, 1+ year in production. F1 96.4%, 50 ms CPU, weekly 70,000 notices: 40 hr manual to 2 min automated.
-- **R2CCP custom**: tender bid rate prediction. Identified interval collapse in the public implementation, fixed via per-bin threshold + entropy regularization. +25 to 40% win rate, 1+ year deployed.
-- **wsss-refined-pseudolabels**: weakly-supervised semantic segmentation. Frozen CLIP (ViT-B/16) + DINOv2, RFM refinement, disagreement-aware self-training. 54.4% mIoU on COCO-Val (ViT-B/16, +2.5pp over WeCLIP+). 3-month contracted research.
-- **monogram**: PKM agent system. 5-stage LLM pipeline + atomic Git Tree commits + 13-tool MCP server. PyPI as `mono-gram`.
-- **google-surf-mcp**: vendor-agnostic Google search MCP server. SSRF-hardened, 11 test cases, npm-published. 209 stars, 27 forks.
-
-**Working on**
-
-- **DSSP**: 12-branch decision-science taxonomy for LLM agents. 14 agent audits. arXiv preprint coming.
-- **E-AT**: entropy-based adversarial calibration. LAPC loss family v1-v7. Active research.
-
-**Contact**
-
-- Portfolio: https://harimxchoi.github.io
-- LinkedIn: https://linkedin.com/in/harimxchoi
-- Email: 2.harim.choi@gmail.com
+- [**WarpQuant**](https://github.com/HarimxChoi/WarpQuant) — Dual-domain post-training quantization for LLM weights, KV cache, and activations.
+- [**wsss-refined-pseudolabels**](https://github.com/HarimxChoi/wsss-refined-pseudolabels) — Reliability-aware weakly supervised segmentation; 53.31% mIoU on all 40,137 COCO-Val 2014 images, +1.5 pp over WeCLIP+.
+- [**google-surf-mcp**](https://github.com/HarimxChoi/google-surf-mcp) — Search and document-extraction infrastructure for AI agents; six MCP tools and 388 tests.
+- [**MyShot**](https://harimxchoi.github.io/projects/myshot/) — Single-camera 3D golf-pose reconstruction and biomechanics evaluation.
+- [**Vargo**](https://harimxchoi.github.io/projects/vargo/) — Research on the limits of pre-execution agent routing and verified execution.
