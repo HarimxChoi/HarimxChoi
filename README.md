@@ -4,7 +4,7 @@ Machine Learning Engineer in Seoul.
 
 I am interested in vectorizing reality, making predictions, and estimating uncertainty. Over seven years, I have worked with public-procurement, construction, and retail data, connecting tabular ML, NLP, computer vision, and LLM agents from data collection through evaluation and deployment. In unfamiliar domains, I first define what should be predicted and how far the result can be trusted, then build systems within performance, cost, and operational constraints.
 
-[Portfolio](https://harimxchoi.github.io) · [LinkedIn](https://linkedin.com/in/harimxchoi) · [Email](mailto:2.harim.choi@gmail.com)
+[Portfolio/Blog](https://harimxchoi.github.io) · [LinkedIn](https://linkedin.com/in/harimxchoi) · [Email](mailto:2.harim.choi@gmail.com)
 
 **Selected work**
 
