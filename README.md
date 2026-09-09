@@ -9,8 +9,8 @@ I am a machine learning engineer who quickly understands new problems and solves
 ## Highlights
 
 - **State-of-the-art weakly supervised semantic segmentation**\
-  [Weakly Supervised Segmentation](https://github.com/HarimxChoi/wsss-refined-pseudolabels): COCO-Val mIoU 53.31%
+  **[Weakly Supervised Segmentation](https://github.com/HarimxChoi/wsss-refined-pseudolabels)**: COCO-Val mIoU 53.31%
 - **State-of-the-art ultra-low-bit LLM quantization**\
-  [WarpQuant](https://github.com/HarimxChoi/WarpQuant): CUDA kernel optimization · 7.36× decoding speed
+  **[WarpQuant](https://github.com/HarimxChoi/WarpQuant)**: CUDA kernel optimization · 7.36× decoding speed
 - **MCP search server with automatic knowledge graph construction**\
-  [google-surf-mcp](https://github.com/HarimxChoi/google-surf-mcp): Top 1% on MCP TOPLIST
+  **[google-surf-mcp](https://github.com/HarimxChoi/google-surf-mcp)**: Top 1% on MCP TOPLIST
