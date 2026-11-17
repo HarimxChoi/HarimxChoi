@@ -4,7 +4,10 @@ Machine Learning Engineer · Seoul
 
 I develop training methods, inference kernels and the systems needed to put models to work. My research includes SOTA results in weakly supervised semantic segmentation (WSSS) and INT2/INT3 post-training quantization (PTQ). In public procurement, I connected tabular foundation models, Monte Carlo simulation and uncertainty estimates to bid recommendations. I also build research search tools and AI agents.
 
-I work remotely through Mercor as a freelance AI Software Engineer, building software projects with AI coding tools for a leading AI lab. I evaluate the tools during development and label preferences between code outputs. In earlier projects, I evaluated LLM responses for reasoning quality and coding accuracy.
+I work remotely through Mercor as a freelance AI Software Engineer.
+
+- Build software projects using AI coding agents for a leading AI lab, evaluating the tools during development.
+- Evaluate LLM responses for reasoning quality and coding accuracy.
 
 [Portfolio](https://harimxchoi.com) · [Full CV](https://harimxchoi.com/cv/) · [LinkedIn](https://www.linkedin.com/in/harimxchoi) · [Email](mailto:2.harim.choi@gmail.com)
 
